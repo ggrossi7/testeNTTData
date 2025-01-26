@@ -1,10 +1,5 @@
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Ambev.DeveloperEvaluation.Unit
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\CoverletSourceRootsMapping_Ambev.DeveloperEvaluation.Unit
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.csproj.AssemblyReference.cache
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.GeneratedMSBuildEditorConfig.editorconfig
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.AssemblyInfoInputs.cache
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.AssemblyInfo.cs
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.csproj.CoreCompileInputs.cache
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\testhost.dll
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\testhost.exe
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
@@ -217,6 +212,12 @@ C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\A
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.pdb
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Ambev.DeveloperEvaluation.ORM.pdb
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.csproj.AssemblyReference.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.AssemblyInfoInputs.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.AssemblyInfo.cs
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.csproj.CoreCompileInputs.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.sourcelink.json
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.De.64BAE37D.Up2Date
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Unit.dll
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Unit\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Unit.dll

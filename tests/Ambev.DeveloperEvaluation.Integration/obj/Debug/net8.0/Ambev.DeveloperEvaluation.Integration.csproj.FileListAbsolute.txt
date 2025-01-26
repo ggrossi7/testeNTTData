@@ -1,10 +1,5 @@
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Ambev.DeveloperEvaluation.Integration
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\net8.0\CoverletSourceRootsMapping_Ambev.DeveloperEvaluation.Integration
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.csproj.AssemblyReference.cache
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.GeneratedMSBuildEditorConfig.editorconfig
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.AssemblyInfoInputs.cache
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.AssemblyInfo.cs
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.csproj.CoreCompileInputs.cache
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\net8.0\testhost.dll
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\net8.0\testhost.exe
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
@@ -147,6 +142,12 @@ C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\n
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.pdb
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\net8.0\Ambev.DeveloperEvaluation.ORM.pdb
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.csproj.AssemblyReference.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.AssemblyInfoInputs.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.AssemblyInfo.cs
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.csproj.CoreCompileInputs.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.sourcelink.json
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.De.50E9DA09.Up2Date
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Integration.dll
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Integration\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Integration.dll

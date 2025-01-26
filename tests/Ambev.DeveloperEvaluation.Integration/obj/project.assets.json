@@ -3390,38 +3390,45 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\padra\\.nuget\\packages\\": {}
+    "C:\\Users\\marci\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
+      "projectUniqueName": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
       "projectName": "Ambev.DeveloperEvaluation.Integration",
-      "projectPath": "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
-      "packagesPath": "C:\\Users\\padra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Integration\\obj\\",
+      "projectPath": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
+      "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+      "outputPath": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Integration\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\padra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
-              "projectPath": "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
+            "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
+              "projectPath": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
             },
-            "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
-              "projectPath": "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
+            "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+              "projectPath": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
             },
-            "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
-              "projectPath": "C:\\Users\\padra\\Downloads\\testeNTTData\\testeNTTData\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"
+            "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
+              "projectPath": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"
             }
           }
         }
@@ -3435,7 +3442,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3486,7 +3494,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
