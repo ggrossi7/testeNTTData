@@ -4,10 +4,8 @@
 
 namespace Ambev.DeveloperEvaluation.ORM.Migrations
 {
-    /// <inheritdoc />
     public partial class AddSalesEntities : Migration
     {
-        /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -138,7 +136,6 @@ namespace Ambev.DeveloperEvaluation.ORM.Migrations
             );
         }
 
-        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(name: "SaleItems");
