@@ -26,9 +26,42 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale
             }
 
             sale.CustomerId = command.CustomerId;
-            sale.TotalAmount = command.TotalAmount;
+            sale.TotalAmount = 0;
             sale.IsCancelled = command.IsCancelled;
             sale.SaleDate = command.SaleDate;
+
+            foreach (var itemCommand in command.SaleItems)
+            {
+                var existingItem = sale.SaleItems.FirstOrDefault(i => i.ProductId == itemCommand.ProductId);
+
+                if (existingItem != null)
+                {
+                    existingItem.Quantity = itemCommand.Quantity;
+                    existingItem.UnitPrice = itemCommand.UnitPrice;
+                    existingItem.TotalPrice = itemCommand.Quantity * itemCommand.UnitPrice;
+                }
+                else
+                {
+                    var newItem = new SaleItem
+                    {
+                        ProductId = itemCommand.ProductId,
+                        Quantity = itemCommand.Quantity,
+                        UnitPrice = itemCommand.UnitPrice,
+                        TotalPrice = itemCommand.Quantity * itemCommand.UnitPrice
+                    };
+
+                    sale.SaleItems.Add(newItem);
+                }
+
+                sale.TotalAmount += itemCommand.Quantity * itemCommand.UnitPrice;
+            }
+
+            var productIdsInCommand = command.SaleItems.Select(i => i.ProductId).ToList();
+            var itemsToRemove = sale.SaleItems.Where(i => !productIdsInCommand.Contains(i.ProductId)).ToList();
+            foreach (var item in itemsToRemove)
+            {
+                sale.SaleItems.Remove(item);
+            }
 
             await _saleRepository.UpdateAsync(sale, cancellationToken);
 

@@ -11,4 +11,6 @@ public class UpdateSaleResult
     public decimal TotalAmount { get; set; }
     public bool IsCancelled { get; set; }
     public DateTime SaleDate { get; set; }
+
+    public List<SaleItemResult> SaleItems { get; set; } = new List<SaleItemResult>();
 }

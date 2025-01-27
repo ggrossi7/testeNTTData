@@ -9,12 +9,16 @@ public class UpdateSaleProfile : Profile
     public UpdateSaleProfile()
     {
         CreateMap<UpdateSaleCommand, Sale>()
-            .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id));
+        .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
+        .ForMember(dest => dest.SaleItems, opt => opt.Ignore());
 
         CreateMap<Sale, UpdateSaleResult>()
             .ForMember(dest => dest.SaleDate, opt => opt.MapFrom(src => src.SaleDate))
             .ForMember(dest => dest.TotalAmount, opt => opt.MapFrom(src => src.TotalAmount))
             .ForMember(dest => dest.IsCancelled, opt => opt.MapFrom(src => src.IsCancelled))
             .ForMember(dest => dest.CustomerId, opt => opt.MapFrom(src => src.CustomerId));
+
+        CreateMap<SaleItemCommand, SaleItem>();
+        CreateMap<SaleItem, SaleItemResult>();
     }
 }

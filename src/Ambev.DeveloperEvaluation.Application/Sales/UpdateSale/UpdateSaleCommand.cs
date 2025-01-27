@@ -9,5 +9,7 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale
         public decimal TotalAmount { get; set; }
         public bool IsCancelled { get; set; }
         public DateTime SaleDate { get; set; }
+
+        public List<SaleItemCommand> SaleItems { get; set; } = new List<SaleItemCommand>();
     }
 }
