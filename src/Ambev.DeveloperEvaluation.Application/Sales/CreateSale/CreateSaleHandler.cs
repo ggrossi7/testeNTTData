@@ -1,9 +1,7 @@
 ﻿using AutoMapper;
 using MediatR;
-using FluentValidation;
 using Ambev.DeveloperEvaluation.Domain.Repositories;
 using Ambev.DeveloperEvaluation.Domain.Entities;
-using System;
 
 namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale
 {

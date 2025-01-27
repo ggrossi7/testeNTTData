@@ -150,6 +150,13 @@ C:\Users\padra\Downloads\testeNTTData\testeNTTData\src\Ambev.DeveloperEvaluation
 C:\Users\padra\Downloads\testeNTTData\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.pdb
 C:\Users\padra\Downloads\testeNTTData\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.genruntimeconfig.cache
 C:\Users\padra\Downloads\testeNTTData\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.WebApi.dll
+C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.csproj.AssemblyReference.cache
+C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.AssemblyInfoInputs.cache
+C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.AssemblyInfo.cs
+C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.csproj.CoreCompileInputs.cache
+C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.sourcelink.json
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\appsettings.json
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.staticwebassets.endpoints.json
@@ -282,13 +289,7 @@ C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\A
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\bin\Debug\net8.0\Ambev.DeveloperEvaluation.ORM.pdb
-C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.csproj.AssemblyReference.cache
-C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.AssemblyInfoInputs.cache
-C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.AssemblyInfo.cs
-C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.csproj.CoreCompileInputs.cache
-C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.sourcelink.json
+C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\scopedcss\bundle\Ambev.DeveloperEvaluation.WebApi.styles.css
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\staticwebassets.development.json
@@ -306,4 +307,3 @@ C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\r
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.pdb
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.genruntimeconfig.cache
 C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.WebApi.dll
-C:\Trabalho\testeNTTData\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.MvcApplicationPartsAssemblyInfo.cs

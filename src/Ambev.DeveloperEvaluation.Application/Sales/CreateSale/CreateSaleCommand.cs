@@ -1,7 +1,4 @@
-﻿using Ambev.DeveloperEvaluation.Common.Validation;
-using MediatR;
-using System;
-using System.Collections.Generic;
+﻿using MediatR;
 
 namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale
 {

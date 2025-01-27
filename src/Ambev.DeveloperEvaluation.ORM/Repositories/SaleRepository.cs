@@ -22,7 +22,7 @@ namespace Ambev.DeveloperEvaluation.ORM.Repositories
 
         public async Task<Sale?> GetByIdAsync(int id, CancellationToken cancellationToken = default)
         {
-            return await _context.Sales.FirstOrDefaultAsync(s => s.Id == id, cancellationToken);
+            return await _context.Sales.Include(s => s.SaleItems).FirstOrDefaultAsync(s => s.Id == id, cancellationToken);
         }
 
         public async Task<bool> DeleteAsync(int id, CancellationToken cancellationToken = default)
@@ -36,14 +36,18 @@ namespace Ambev.DeveloperEvaluation.ORM.Repositories
             return true;
         }
 
-        public async Task<Sale> UpdateAsync(int id, CancellationToken cancellationToken = default)
+        public async Task<Sale> UpdateAsync(Sale sale, CancellationToken cancellationToken = default)
         {
-            var sale = await GetByIdAsync(id, cancellationToken);
-            if (sale == null)
-                throw new InvalidOperationException($"Sale with id {id} not found.");
+            var existingSale = await GetByIdAsync(sale.Id, cancellationToken);
+            if (existingSale == null)
+                throw new InvalidOperationException($"Sale with id {sale.Id} not found.");
 
+            existingSale.CustomerId = sale.CustomerId;
+            existingSale.TotalAmount = sale.TotalAmount;
+            existingSale.IsCancelled = sale.IsCancelled;
+            existingSale.SaleDate = sale.SaleDate;
 
-            _context.Sales.Update(sale);
+            _context.Sales.Update(existingSale);
             await _context.SaveChangesAsync(cancellationToken);
 
             return sale;

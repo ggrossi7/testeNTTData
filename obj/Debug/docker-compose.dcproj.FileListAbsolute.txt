@@ -1,10 +1,11 @@
+C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.WebApi.dll
+C:\Trabalho\testeNTTData\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.WebApi.deps.json
 C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.WebApi.runtimeconfig.json
 C:\Trabalho\testeNTTData\bin\Debug\appsettings.Development.json
 C:\Trabalho\testeNTTData\bin\Debug\appsettings.json
 C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.WebApi.staticwebassets.endpoints.json
 C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.WebApi.exe
-C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.WebApi.dll
 C:\Trabalho\testeNTTData\bin\Debug\AutoMapper.dll
 C:\Trabalho\testeNTTData\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.ORM.dll
@@ -59,5 +60,4 @@ C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.Application.pdb
 C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.Domain.pdb
 C:\Trabalho\testeNTTData\bin\Debug\Ambev.DeveloperEvaluation.IoC.pdb
 C:\Trabalho\testeNTTData\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
-C:\Trabalho\testeNTTData\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Trabalho\testeNTTData\obj\Debug\docker-c.35A3FFBA.Up2Date

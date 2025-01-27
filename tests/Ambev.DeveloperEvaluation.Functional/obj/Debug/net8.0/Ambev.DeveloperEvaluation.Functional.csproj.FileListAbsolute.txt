@@ -1,5 +1,11 @@
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\.msCoverageSourceRootsMapping_Ambev.DeveloperEvaluation.Functional
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\CoverletSourceRootsMapping_Ambev.DeveloperEvaluation.Functional
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.csproj.AssemblyReference.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.AssemblyInfoInputs.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.AssemblyInfo.cs
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.csproj.CoreCompileInputs.cache
+C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.sourcelink.json
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\testhost.dll
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\testhost.exe
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
@@ -142,12 +148,6 @@ C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\ne
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.pdb
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\Ambev.DeveloperEvaluation.ORM.pdb
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.csproj.AssemblyReference.cache
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.GeneratedMSBuildEditorConfig.editorconfig
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.AssemblyInfoInputs.cache
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.AssemblyInfo.cs
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.csproj.CoreCompileInputs.cache
-C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.sourcelink.json
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.De.CE2A0EC7.Up2Date
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Functional.dll
 C:\Trabalho\testeNTTData\tests\Ambev.DeveloperEvaluation.Functional\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Functional.dll
