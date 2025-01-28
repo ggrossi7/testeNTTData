@@ -43,8 +43,9 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale
 
             var sale = _mapper.Map<Sale>(command);
             var createdSale = await _saleRepository.CreateAsync(sale, cancellationToken);
-
             var result = _mapper.Map<CreateSaleResult>(createdSale);
+
+            result.TotalAmount = createdSale.SaleItems.Sum(i => i.TotalPrice);
 
             return result;
         }

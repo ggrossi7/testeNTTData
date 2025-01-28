@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Trabalho\\testeNTTData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.orm\\migrations\\addsalesentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|solutionrelative:src\\ambev.developerevaluation.orm\\migrations\\addsalesentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|c:\\trabalho\\testenttdata\\tests\\ambev.developerevaluation.unit\\application\\createsalehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|solutionrelative:tests\\ambev.developerevaluation.unit\\application\\createsalehandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.application\\sales\\createsale\\createsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\createsale\\createsalehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.application\\sales\\createsale\\createsaleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\createsale\\createsaleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|c:\\trabalho\\testenttdata\\tests\\ambev.developerevaluation.unit\\application\\testdata\\createsalehandlertestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|solutionrelative:tests\\ambev.developerevaluation.unit\\application\\testdata\\createsalehandlertestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|c:\\trabalho\\testenttdata\\tests\\ambev.developerevaluation.unit\\application\\createuserhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|solutionrelative:tests\\ambev.developerevaluation.unit\\application\\createuserhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|c:\\trabalho\\testenttdata\\tests\\ambev.developerevaluation.unit\\application\\testdata\\createuserhandlertestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E6E012-F460-4A2B-95C5-27A2EF18A713}|tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj|solutionrelative:tests\\ambev.developerevaluation.unit\\application\\testdata\\createuserhandlertestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.application\\sales\\getallsales\\getallsalesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\getallsales\\getallsalesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.application\\sales\\getallsales\\getallsalesresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\getallsales\\getallsalesresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.webapi\\features\\sales\\getallsales\\getallsalesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\getallsales\\getallsalesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.application\\sales\\getallsales\\getallsalescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\getallsales\\getallsalescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.application\\sales\\getallsales\\getallsaleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CED839-FE4A-4286-9403-252D230BA2A0}|src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj|solutionrelative:src\\ambev.developerevaluation.application\\sales\\getallsales\\getallsaleshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B19079B3-A9DD-4408-9ED2-899D735C66BF}|src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +59,16 @@
       "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.webapi\\features\\sales\\getallsales\\getallsalesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\features\\sales\\getallsales\\getallsalesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B484022-3EF7-4BAB-ADB8-849F9E419EDD}|src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj|solutionrelative:src\\ambev.developerevaluation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|c:\\trabalho\\testenttdata\\src\\ambev.developerevaluation.orm\\migrations\\addsalesentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62C8404-A5FA-4D58-9398-1E3C55C28D14}|src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj|solutionrelative:src\\ambev.developerevaluation.orm\\migrations\\addsalesentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +83,162 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateSaleHandlerTests.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateSaleHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateSaleHandlerTests.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateSaleHandlerTests.cs",
+              "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateSaleHandlerTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwH8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:59:44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSaleHandlerTestData.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateSaleHandlerTestData.cs",
+              "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateSaleHandlerTestData.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateSaleHandlerTestData.cs",
+              "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateSaleHandlerTestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:58:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserHandlerTestData.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateUserHandlerTestData.cs",
+              "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateUserHandlerTestData.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateUserHandlerTestData.cs",
+              "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\TestData\\CreateUserHandlerTestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:57:56.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSaleHandler.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleHandler.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleHandler.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleHandler.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:56:21.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSaleResult.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleResult.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleResult.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleResult.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\CreateSale\\CreateSaleResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:02:34.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserHandlerTests.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateUserHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateUserHandlerTests.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateUserHandlerTests.cs",
+              "RelativeToolTip": "tests\\Ambev.DeveloperEvaluation.Unit\\Application\\CreateUserHandlerTests.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowI4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:54:51.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllSalesResult.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesResult.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesResult.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesResult.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:35:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllSalesProfile.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesProfile.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesProfile.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesProfile.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:33:42.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllSalesHandler.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesHandler.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesHandler.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesHandler.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:25:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllSalesCommand.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesCommand.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesCommand.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesCommand.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Application\\Sales\\GetAllSales\\GetAllSalesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:23:36.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllSalesResponse.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetAllSales\\GetAllSalesResponse.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetAllSales\\GetAllSalesResponse.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetAllSales\\GetAllSalesResponse.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetAllSales\\GetAllSalesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:20:11.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllSalesRequest.cs",
+              "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetAllSales\\GetAllSalesRequest.cs",
+              "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetAllSales\\GetAllSalesRequest.cs",
+              "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetAllSales\\GetAllSalesRequest.cs",
+              "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\GetAllSales\\GetAllSalesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:18:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AddSalesEntities.cs",
               "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.ORM\\Migrations\\AddSalesEntities.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.ORM\\Migrations\\AddSalesEntities.cs",
@@ -42,59 +246,59 @@
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.ORM\\Migrations\\AddSalesEntities.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T03:20:32.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T03:20:32.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Sale.cs",
               "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
               "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.Domain\\Entities\\Sale.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T17:58:55.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "SalesController.cs",
               "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Features\\Sales\\SalesController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAkwGYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwFsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T18:50:43.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "SaleRepository.cs",
               "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
               "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.ORM\\Repositories\\SaleRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wDcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T19:34:08.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
               "ToolTip": "C:\\Trabalho\\testeNTTData\\src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
               "RelativeToolTip": "src\\Ambev.DeveloperEvaluation.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T15:14:51.468Z"
+              "WhenOpened": "2025-01-25T15:14:51.468Z",
+              "EditorCaption": ""
             }
           ]
         }

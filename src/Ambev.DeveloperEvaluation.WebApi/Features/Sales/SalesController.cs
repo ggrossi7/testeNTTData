@@ -64,6 +64,33 @@ public class SalesController : BaseController
         });
     }
 
+    [HttpGet]
+    [ProducesResponseType(typeof(ApiResponseWithData<List<GetSaleResponse>>), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status404NotFound)]
+    public async Task<IActionResult> GetAllSales(CancellationToken cancellationToken)
+    {
+        var command = new GetAllSalesCommand();
+        var response = await _mediator.Send(command, cancellationToken);
+
+        if (response == null || !response.Any())
+        {
+            return NotFound(new ApiResponse
+            {
+                Success = false,
+                Message = "No sales found"
+            });
+        }
+
+        var mappedResponse = _mapper.Map<List<GetSaleResponse>>(response);
+
+        return Ok(new ApiResponseWithData<List<GetSaleResponse>>
+        {
+            Success = true,
+            Message = "Sales retrieved successfully",
+            Data = mappedResponse
+        });
+    }
+
     [HttpDelete("{id}")]
     [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status200OK)]
     [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status404NotFound)]
